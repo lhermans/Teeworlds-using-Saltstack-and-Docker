@@ -19,5 +19,5 @@ Installation:
 The server's config can be changed by manually changing the .cfg files that the Docker image provides.
 This repo is provided as is, updates are very unlikely. 
 
-Credit for the Docker image goes to virtualroot. https://github.com/virtualroot
+Credit for the Docker image goes to virtualroot. https://github.com/virtualroot  
 Docker image can be found at https://hub.docker.com/r/virtualroot/docker-teeworlds/
