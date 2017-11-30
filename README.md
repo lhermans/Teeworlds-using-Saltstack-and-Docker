@@ -1,11 +1,11 @@
-This repo installs Teeworlds using saltstack and docker.
+This repo installs Teeworlds using SaltStack and Docker.
 No manual config is necessary.
 Based on Ubuntu Xenial.
 
 Prerequisite:
 
-- Slight knowledge of Saltstack and Docker. This project is pretty simple however, so no in-depth knowledge is needed.
-- A fully functional Saltstack setup. This means your master has been set up and is functioning.
+- Slight knowledge of SaltStack and Docker. This project is pretty simple however, so no in-depth knowledge is needed.
+- A fully functional SaltStack setup. This means your master has been set up and is functioning.
 
 Installation:
 
