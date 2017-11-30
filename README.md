@@ -14,7 +14,7 @@ Installation:
 - Apply docker.sls if docker still needs to be installed.
 - Apply teeworlds.sls and wait for it to finish.
 - Your server should now be reachable on the IP of your minion. 
-  Teeworlds binds on the default 8303 port, but this can be changed to another port if preferred.
+  Teeworlds binds to the default 8303 port, but this can be changed to another port if preferred.
 
 The server's config can be changed by manually changing the .cfg files that the Docker image provides.
 This repo is provided as is, updates are very unlikely. 
